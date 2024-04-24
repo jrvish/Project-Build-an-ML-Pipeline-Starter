@@ -1,11 +1,12 @@
 import json
-
+import logging
 import mlflow
 import tempfile
 import os
 import wandb
 import hydra
 from omegaconf import DictConfig
+
 
 _steps = [
     "download",
@@ -50,7 +51,9 @@ def go(config: DictConfig):
 
         if "basic_cleaning" in active_steps:
             _ = mlflow.run(
-                os.path.join(hydra.utils.get_original_cwd(), "src", "basic_cleaning"),
+                os.path.join
+                    (hydra.utils.get_original_cwd(), "src", "basic_cleaning"
+                ),
                 "main",
                 parameters={
                     "input_artifact": "sample.csv:latest",
@@ -59,20 +62,22 @@ def go(config: DictConfig):
                     "output_description": "Data with outliers and null values removed",
                     "min_price": config['etl']['min_price'],
                     "max_price": config['etl']['max_price']
-                }
+                },
             )
 
         if "data_check" in active_steps:
             _=mlflow.run(
-                os.path.join(hydra.utils.get_original_cwd(), "src", "data_check"),
+                os.path.join
+                    (hydra.utils.get_original_cwd(), "src", "data_check"
+                ),
                 "main",
                 parameters={
                     "csv": "clean_sample.csv:latest",
                     "ref": "clean_sample.csv:reference",
                     "kl_threshhold": config["data_check"]["kl_threshold"],
                     "min_price": config['etl']['min_price'],
-                    "max_price": config['etl']['max_price']
-                }
+                    "max_price": config['etl']['max_price'],
+                },
             )
 
         if "data_split" in active_steps:
