@@ -6,6 +6,8 @@ import argparse
 import logging
 import wandb
 import pandas as pd
+import yaml
+import os
 
 # DO NOT MODIFY
 logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s")
@@ -45,6 +47,8 @@ def go(args):
     )
     artifact.add_file('clean_sample.csv')
     run.log_artifact(artifact)
+
+    run.finish()
     
 # TODO: In the code below, fill in the data type for each argumemt. The data type should be str, float or int. 
 # TODO: In the code below, fill in a description for each argument. The description should be a string.
