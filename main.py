@@ -45,7 +45,7 @@ def go(config: DictConfig):
                     "artifact_name": "sample.csv",
                     "artifact_type": "raw_data",
                     "artifact_description": "Raw file as downloaded"
-                },
+                }
             )
 
         if "basic_cleaning" in active_steps:
@@ -59,7 +59,7 @@ def go(config: DictConfig):
                     "output_description": "Data with outliers and null values removed",
                     "min_price": config['etl']['min_price'],
                     "max_price": config['etl']['max_price']
-                },
+                }
             )
 
         if "data_check" in active_steps:
