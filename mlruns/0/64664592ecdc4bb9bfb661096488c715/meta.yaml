@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64664592ecdc4bb9bfb661096488c715/artifacts
+end_time: 1724821920119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64664592ecdc4bb9bfb661096488c715
+run_name: awesome-pig-770
+run_uuid: 64664592ecdc4bb9bfb661096488c715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724821904666
+status: 3
+tags: []
+user_id: jrvish

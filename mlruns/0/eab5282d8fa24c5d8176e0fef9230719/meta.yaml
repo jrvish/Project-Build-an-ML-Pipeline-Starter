@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eab5282d8fa24c5d8176e0fef9230719/artifacts
+end_time: 1724821920022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab5282d8fa24c5d8176e0fef9230719
+run_name: capable-croc-71
+run_uuid: eab5282d8fa24c5d8176e0fef9230719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724821908904
+status: 3
+tags: []
+user_id: jrvish
