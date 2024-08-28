@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6cbd77b6016e424ba1fe95cda22e8f20/artifacts
+end_time: 1724821174873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cbd77b6016e424ba1fe95cda22e8f20
+run_name: bittersweet-stag-939
+run_uuid: 6cbd77b6016e424ba1fe95cda22e8f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724821060692
+status: 3
+tags: []
+user_id: jrvish

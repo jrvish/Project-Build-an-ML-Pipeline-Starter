@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a4293eeb1cae4983a9f0428b66fad5ca/artifacts
+end_time: 1724821174781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4293eeb1cae4983a9f0428b66fad5ca
+run_name: burly-tern-105
+run_uuid: a4293eeb1cae4983a9f0428b66fad5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724821163819
+status: 3
+tags: []
+user_id: jrvish
