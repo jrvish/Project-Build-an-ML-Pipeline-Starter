@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e9bad959d9e948b88f1e689aed152bf3/artifacts
+end_time: 1724902853548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9bad959d9e948b88f1e689aed152bf3
+run_name: upset-wolf-565
+run_uuid: e9bad959d9e948b88f1e689aed152bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724902849575
+status: 3
+tags: []
+user_id: jrvish

@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-08-29T03:52:32.831325",
+    "startedAt": "2024-08-29T03:52:27.095558",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "/Users/jrvish/New Machine Learning Pipeline/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/jrvish/Project-Build-an-ML-Pipeline-Starter",
+        "commit": "eca2a0c0fcdf09d7d325a02704d26923be264871"
+    },
+    "email": "jessicarlovell@gmail.com",
+    "host": "Mac-mini.local",
+    "username": "jrvish",
+    "executable": "/Users/jrvish/anaconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 320.77559661865234
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

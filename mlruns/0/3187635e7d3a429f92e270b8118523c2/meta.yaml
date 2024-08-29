@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3187635e7d3a429f92e270b8118523c2/artifacts
+end_time: 1724903012539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3187635e7d3a429f92e270b8118523c2
+run_name: classy-stoat-914
+run_uuid: 3187635e7d3a429f92e270b8118523c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724903009892
+status: 3
+tags: []
+user_id: jrvish

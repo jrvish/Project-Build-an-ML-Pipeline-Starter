@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a30c7e3f2230447ca97db966e7f3e216/artifacts
+end_time: 1724903416985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a30c7e3f2230447ca97db966e7f3e216
+run_name: tasteful-cod-430
+run_uuid: a30c7e3f2230447ca97db966e7f3e216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724903401571
+status: 3
+tags: []
+user_id: jrvish

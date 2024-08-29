@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b1b19162fac74f4b9239b1bc54a30b10/artifacts
+end_time: 1724903416887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1b19162fac74f4b9239b1bc54a30b10
+run_name: monumental-fowl-954
+run_uuid: b1b19162fac74f4b9239b1bc54a30b10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724903405823
+status: 3
+tags: []
+user_id: jrvish
