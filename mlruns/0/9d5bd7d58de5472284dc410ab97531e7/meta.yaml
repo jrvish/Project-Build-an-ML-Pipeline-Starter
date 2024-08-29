@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d5bd7d58de5472284dc410ab97531e7/artifacts
+end_time: 1724906655022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d5bd7d58de5472284dc410ab97531e7
+run_name: big-moose-259
+run_uuid: 9d5bd7d58de5472284dc410ab97531e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724906653478
+status: 4
+tags: []
+user_id: jrvish

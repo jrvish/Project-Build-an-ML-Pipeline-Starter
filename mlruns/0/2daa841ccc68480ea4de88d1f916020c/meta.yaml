@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2daa841ccc68480ea4de88d1f916020c/artifacts
+end_time: 1724906132904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2daa841ccc68480ea4de88d1f916020c
+run_name: clumsy-dog-515
+run_uuid: 2daa841ccc68480ea4de88d1f916020c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724906131462
+status: 4
+tags: []
+user_id: jrvish

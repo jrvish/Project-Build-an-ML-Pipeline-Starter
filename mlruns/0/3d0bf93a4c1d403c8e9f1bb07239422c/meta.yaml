@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3d0bf93a4c1d403c8e9f1bb07239422c/artifacts
+end_time: 1724905587186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d0bf93a4c1d403c8e9f1bb07239422c
+run_name: entertaining-fox-187
+run_uuid: 3d0bf93a4c1d403c8e9f1bb07239422c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724905585814
+status: 4
+tags: []
+user_id: jrvish

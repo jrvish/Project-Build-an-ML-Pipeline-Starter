@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae2d9ee14f13404b99e04023f532c030/artifacts
+end_time: 1724906392426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2d9ee14f13404b99e04023f532c030
+run_name: marvelous-whale-570
+run_uuid: ae2d9ee14f13404b99e04023f532c030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724906391004
+status: 4
+tags: []
+user_id: jrvish

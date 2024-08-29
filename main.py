@@ -50,7 +50,7 @@ def go(config: DictConfig):
             )
 
         if "basic_cleaning" in active_steps:
-             _ = mlflow.run(
+            _ = mlflow.run(
                 os.path.join(hydra.utils.get_original_cwd(), "src", "basic_cleaning"),
                 "main",
                 parameters={
@@ -62,7 +62,7 @@ def go(config: DictConfig):
                     "max_price": config['etl']['max_price']
                 },
             )
-            pass
+
 
         if "data_check" in active_steps:
             ##################
