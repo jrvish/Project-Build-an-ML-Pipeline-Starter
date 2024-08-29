@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e7865acdac94f4fb95dbe63fbdab010/artifacts
+end_time: 1724906909439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e7865acdac94f4fb95dbe63fbdab010
+run_name: capricious-bird-784
+run_uuid: 4e7865acdac94f4fb95dbe63fbdab010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724906898578
+status: 3
+tags: []
+user_id: jrvish

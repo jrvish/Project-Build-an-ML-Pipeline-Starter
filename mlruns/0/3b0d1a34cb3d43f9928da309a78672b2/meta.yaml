@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3b0d1a34cb3d43f9928da309a78672b2/artifacts
+end_time: 1724906909535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b0d1a34cb3d43f9928da309a78672b2
+run_name: bright-stork-866
+run_uuid: 3b0d1a34cb3d43f9928da309a78672b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724906894454
+status: 3
+tags: []
+user_id: jrvish
