@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/712903445d5145fc84c004d0f4bbf5ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 712903445d5145fc84c004d0f4bbf5ea
+run_name: bustling-ape-417
+run_uuid: 712903445d5145fc84c004d0f4bbf5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725339345120
+status: 1
+tags: []
+user_id: jrvish
