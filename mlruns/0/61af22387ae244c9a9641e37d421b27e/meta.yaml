@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/61af22387ae244c9a9641e37d421b27e/artifacts
+end_time: 1725337215947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61af22387ae244c9a9641e37d421b27e
+run_name: luxuriant-mare-701
+run_uuid: 61af22387ae244c9a9641e37d421b27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725337102898
+status: 4
+tags: []
+user_id: jrvish
