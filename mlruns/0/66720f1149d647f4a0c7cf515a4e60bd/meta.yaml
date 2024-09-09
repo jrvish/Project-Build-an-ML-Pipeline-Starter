@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/66720f1149d647f4a0c7cf515a4e60bd/artifacts
+end_time: 1725846009118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66720f1149d647f4a0c7cf515a4e60bd
+run_name: rumbling-duck-716
+run_uuid: 66720f1149d647f4a0c7cf515a4e60bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725845990460
+status: 3
+tags: []
+user_id: jrvish

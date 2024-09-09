@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d30861d16ffd4a5ba97474463b77d854/artifacts
+end_time: 1725845099650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d30861d16ffd4a5ba97474463b77d854
+run_name: ambitious-wren-883
+run_uuid: d30861d16ffd4a5ba97474463b77d854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725844967377
+status: 4
+tags: []
+user_id: jrvish

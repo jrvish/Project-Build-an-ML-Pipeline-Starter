@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c6be36efc74425e9a7547c1b13d7d7f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c6be36efc74425e9a7547c1b13d7d7f
+run_name: suave-sloth-559
+run_uuid: 0c6be36efc74425e9a7547c1b13d7d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725508686134
+status: 1
+tags: []
+user_id: jrvish

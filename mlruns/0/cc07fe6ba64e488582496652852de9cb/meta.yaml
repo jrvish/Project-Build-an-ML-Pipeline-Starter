@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc07fe6ba64e488582496652852de9cb/artifacts
+end_time: 1725508810099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc07fe6ba64e488582496652852de9cb
+run_name: efficient-panda-968
+run_uuid: cc07fe6ba64e488582496652852de9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725508682761
+status: 4
+tags: []
+user_id: jrvish

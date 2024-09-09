@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d72f15cea1b48f68188a63870526a8f/artifacts
+end_time: 1725846940743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d72f15cea1b48f68188a63870526a8f
+run_name: mysterious-cod-310
+run_uuid: 9d72f15cea1b48f68188a63870526a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725846818074
+status: 4
+tags: []
+user_id: jrvish

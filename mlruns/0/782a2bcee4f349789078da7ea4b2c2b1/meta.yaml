@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/782a2bcee4f349789078da7ea4b2c2b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 782a2bcee4f349789078da7ea4b2c2b1
+run_name: judicious-kite-804
+run_uuid: 782a2bcee4f349789078da7ea4b2c2b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725846820939
+status: 1
+tags: []
+user_id: jrvish

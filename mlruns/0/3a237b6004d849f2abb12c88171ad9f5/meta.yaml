@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3a237b6004d849f2abb12c88171ad9f5/artifacts
+end_time: 1725846212156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a237b6004d849f2abb12c88171ad9f5
+run_name: youthful-shrew-222
+run_uuid: 3a237b6004d849f2abb12c88171ad9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725846094152
+status: 4
+tags: []
+user_id: jrvish

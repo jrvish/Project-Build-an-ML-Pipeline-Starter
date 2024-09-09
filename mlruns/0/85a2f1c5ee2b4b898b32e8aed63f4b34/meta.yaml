@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85a2f1c5ee2b4b898b32e8aed63f4b34/artifacts
+end_time: 1725846041809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85a2f1c5ee2b4b898b32e8aed63f4b34
+run_name: merciful-fish-387
+run_uuid: 85a2f1c5ee2b4b898b32e8aed63f4b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725846030344
+status: 3
+tags: []
+user_id: jrvish

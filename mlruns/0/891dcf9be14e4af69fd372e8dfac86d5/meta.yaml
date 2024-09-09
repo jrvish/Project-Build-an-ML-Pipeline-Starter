@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/891dcf9be14e4af69fd372e8dfac86d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 891dcf9be14e4af69fd372e8dfac86d5
+run_name: unequaled-fly-477
+run_uuid: 891dcf9be14e4af69fd372e8dfac86d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725510453248
+status: 1
+tags: []
+user_id: jrvish

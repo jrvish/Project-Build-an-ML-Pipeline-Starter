@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f8a10d43dd90442db7ee276d9224cfbd/artifacts
+end_time: 1725846009003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8a10d43dd90442db7ee276d9224cfbd
+run_name: abundant-mouse-927
+run_uuid: f8a10d43dd90442db7ee276d9224cfbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725845995473
+status: 3
+tags: []
+user_id: jrvish

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95e33b43c52f4faeb9d17e9c02448bb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95e33b43c52f4faeb9d17e9c02448bb9
+run_name: dapper-fish-587
+run_uuid: 95e33b43c52f4faeb9d17e9c02448bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725846097060
+status: 1
+tags: []
+user_id: jrvish

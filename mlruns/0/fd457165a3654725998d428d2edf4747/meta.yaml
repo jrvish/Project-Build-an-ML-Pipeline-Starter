@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/New%20Machine%20Learning%20Pipeline/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd457165a3654725998d428d2edf4747/artifacts
+end_time: 1725846041909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd457165a3654725998d428d2edf4747
+run_name: glamorous-panda-752
+run_uuid: fd457165a3654725998d428d2edf4747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725846028054
+status: 3
+tags: []
+user_id: jrvish
