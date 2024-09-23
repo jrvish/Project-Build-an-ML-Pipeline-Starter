@@ -178,6 +178,7 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
         "availability_365",
         "longitude",
         "latitude"
+        "test"
     ]
     zero_imputer = SimpleImputer(strategy="constant", fill_value=0)
 
