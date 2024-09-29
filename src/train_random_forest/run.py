@@ -106,11 +106,12 @@ def go(args):
 
 
     # Upload the model we just exported to W&B
+    
     artifact = wandb.Artifact(
         args.output_artifact,
-        type = 'model_export',
-        description = 'Trained ranfom forest artifact',
-        metadata = rf_config
+        type="model_export",
+        description="Trained pipeline artifact",
+        metadata=rf_config
     )
     artifact.add_dir('random_forest_dir')
     run.log_artifact(artifact)
