@@ -72,7 +72,6 @@ def go(args):
     # Then fit it to the X_train, y_train data
     logger.info("Fitting")
 
-  
     # Fit the pipeline sk_pipe by calling the .fit method on X_train and y_train
     sk_pipe.fit(X_train, y_train)
 
@@ -282,7 +281,7 @@ if __name__ == "__main__":
         "--max_tfidf_features",
         help="Maximum number of words to consider for the TFIDF",
         default=10,
-        type=int
+        type=int,
     )
 
     parser.add_argument(
