@@ -55,6 +55,7 @@ def go(args):
     # and save the returned path in train_local_pat
     logger.info("Downloading the training set artifact")
     trainval_local_path = run.use_artifact(args.trainval_artifact).file()
+    print("Downloaded the training set artifact")
    
     X = pd.read_csv(trainval_local_path)
     y = X.pop("price")  # this removes the column "price" from X and puts it into y
@@ -68,12 +69,14 @@ def go(args):
     logger.info("Preparing sklearn pipeline")
 
     sk_pipe, processed_features = get_inference_pipeline(rf_config, args.max_tfidf_features)
+    print("Prepared sklearn pipeline")
 
     # Then fit it to the X_train, y_train data
     logger.info("Fitting")
 
     # Fit the pipeline sk_pipe by calling the .fit method on X_train and y_train
     sk_pipe.fit(X_train, y_train)
+    print("Pipeline fitted to X_train and y_train data")
 
     # Compute r2 and MAE
     logger.info("Scoring")
@@ -84,12 +87,14 @@ def go(args):
 
     logger.info(f"Score: {r_squared}")
     logger.info(f"MAE: {mae}")
+    print("r2 and MAE computed")
 
     logger.info("Exporting model")
 
     # Save model package in the MLFlow sklearn format
     if os.path.exists("random_forest_dir"):
         shutil.rmtree("random_forest_dir")
+        print("model package saved in MLFlow sklearn format")
 
 
     # Save the sk_pipe pipeline as a mlflow.sklearn model in the directory "random_forest_dir"
@@ -102,7 +107,7 @@ def go(args):
         signature = signature,
         input_example = X_train.iloc[:5]
     )
-    
+    print("sk_pipe pipeline saved as a mlflow.sklearn model in the directory 'random_forest_dir'")
 
 
     # Upload the model we just exported to W&B
@@ -115,23 +120,25 @@ def go(args):
     )
     artifact.add_dir('random_forest_dir')
     run.log_artifact(artifact)
-
+    print("Uploaded model we just imported to W&B")
     # Plot feature importance
     fig_feat_imp = plot_feature_importance(sk_pipe, processed_features)
 
 
     # Here we save variable r_squared under the "r2" key
     run.summary['r2'] = r_squared
+    print("Saved variable r_squared under the 'r2' key")
     # Now save the variable mae under the key "mae".
     run.summary['mae']= mae
+    print("Saved the variable mae under the key 'mae'")
 
-    # Upload to W&B the feture importance visualization
+    # Upload to W&B the feature importance visualization
     run.log(
         {
           "feature_importance": wandb.Image(fig_feat_imp),
         }
     )
-
+    print("Uploaded feature importance visualization to W&B")
 
 def plot_feature_importance(pipe, feat_names):
     # We collect the feature importance for all non-nlp features first
@@ -147,7 +154,7 @@ def plot_feature_importance(pipe, feat_names):
     _ = sub_feat_imp.set_xticklabels(np.array(feat_names), rotation=90)
     fig_feat_imp.tight_layout()
     return fig_feat_imp
-
+    print("Completed plot_feature_importance")
 
 def get_inference_pipeline(rf_config, max_tfidf_features):
     # Let's handle the categorical features first
@@ -159,7 +166,7 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
     # is mandatory on the websites, so missing values are not possible in production
     # (nor during training). That is not true for neighbourhood_group
     ordinal_categorical_preproc = OrdinalEncoder()
-
+    print("Completed get_inference_pipeline")
     
     # Build a pipeline with two steps:
     # 1 - A SimpleImputer(strategy="most_frequent") to impute missing values
@@ -168,7 +175,7 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
         SimpleImputer(strategy="most_frequent"),
         OneHotEncoder()
     )
-    
+    print("built the pipeline with the 2 steps")
 
     # Let's impute the numerical columns to make sure we can handle missing values
     # (note that we do not scale because the RF algorithm does not need that)
