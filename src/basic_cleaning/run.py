@@ -16,11 +16,11 @@ def go(args):
     
     logger.info('Starting wandb run.')
     run = wandb.init(
-        project = 'nyc_airbnb',
+        project = 'nyc_airbnb_dev',
         group = 'basic_cleaning',
         job_type="basic_cleaning" 
     )
-    run.config.update(args)
+
     # Download input artifact. This will also log that this script is using this
     # particular version of the artifact
     logger.info('Fetching raw dataset.')
