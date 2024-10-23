@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/696d7e2d22d74eaba2d3487dc78948c4/artifacts
+end_time: 1729657921188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 696d7e2d22d74eaba2d3487dc78948c4
+run_name: agreeable-moose-524
+run_uuid: 696d7e2d22d74eaba2d3487dc78948c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729657857811
+status: 3
+tags: []
+user_id: jrvish

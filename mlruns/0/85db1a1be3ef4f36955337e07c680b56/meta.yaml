@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85db1a1be3ef4f36955337e07c680b56/artifacts
+end_time: 1729657933140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85db1a1be3ef4f36955337e07c680b56
+run_name: efficient-bear-227
+run_uuid: 85db1a1be3ef4f36955337e07c680b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729657762966
+status: 4
+tags: []
+user_id: jrvish

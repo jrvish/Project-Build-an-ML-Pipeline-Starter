@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b14a01bf299144579f4ab74000e07632/artifacts
+end_time: 1729657857776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b14a01bf299144579f4ab74000e07632
+run_name: rogue-colt-820
+run_uuid: b14a01bf299144579f4ab74000e07632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729657770477
+status: 3
+tags: []
+user_id: jrvish

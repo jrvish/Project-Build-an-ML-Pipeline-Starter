@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f95d5e801ef4a969c024cc386c1e044/artifacts
+end_time: 1729657932906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f95d5e801ef4a969c024cc386c1e044
+run_name: bold-mare-378
+run_uuid: 8f95d5e801ef4a969c024cc386c1e044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729657921217
+status: 4
+tags: []
+user_id: jrvish
