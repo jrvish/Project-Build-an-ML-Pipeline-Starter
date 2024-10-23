@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1af7a19d005b45719c63d4439d645ebc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1af7a19d005b45719c63d4439d645ebc
+run_name: orderly-fly-749
+run_uuid: 1af7a19d005b45719c63d4439d645ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729653602628
+status: 1
+tags: []
+user_id: jrvish

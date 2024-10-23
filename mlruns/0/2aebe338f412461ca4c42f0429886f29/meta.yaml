@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2aebe338f412461ca4c42f0429886f29/artifacts
+end_time: 1729653388452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aebe338f412461ca4c42f0429886f29
+run_name: masked-bear-196
+run_uuid: 2aebe338f412461ca4c42f0429886f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729653254111
+status: 4
+tags: []
+user_id: jrvish

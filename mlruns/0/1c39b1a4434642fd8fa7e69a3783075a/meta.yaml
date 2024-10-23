@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1c39b1a4434642fd8fa7e69a3783075a/artifacts
+end_time: 1729653071237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c39b1a4434642fd8fa7e69a3783075a
+run_name: carefree-grub-690
+run_uuid: 1c39b1a4434642fd8fa7e69a3783075a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729652874589
+status: 3
+tags: []
+user_id: jrvish
