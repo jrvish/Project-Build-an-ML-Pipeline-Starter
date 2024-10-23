@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/46a4121d6a45426ea915e4f26a6a67b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46a4121d6a45426ea915e4f26a6a67b2
+run_name: skittish-slug-99
+run_uuid: 46a4121d6a45426ea915e4f26a6a67b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729653856294
+status: 1
+tags: []
+user_id: jrvish
