@@ -18,7 +18,7 @@ def go(args):
     run = wandb.init(
         project = 'nyc_airbnb_dev',
         group = 'basic_cleaning',
-        job_type="basic_cleaning" 
+        job_type = 'basic_cleaning' 
     )
 
     # Download input artifact. This will also log that this script is using this
