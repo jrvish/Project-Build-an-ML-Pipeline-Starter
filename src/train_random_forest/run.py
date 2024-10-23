@@ -100,11 +100,11 @@ def go(args):
     # Save the sk_pipe pipeline as a mlflow.sklearn model in the directory "random_forest_dir"
     # HINT: use mlflow.sklearn.save_model
     export_path = "random_forest_dir"
-    signature = mlflow.models.infer_signature(X_val, y_pred)
+    #signature = mlflow.models.infer_signature(X_val, y_pred)
     mlflow.sklearn.save_model(
         sk_pipe,
         export_path,
-        signature = signature,
+        #signature = signature, 
         input_example = X_train.iloc[:5]
     )
     print("sk_pipe pipeline saved as a mlflow.sklearn model in the directory 'random_forest_dir'")
@@ -171,7 +171,7 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
     # Build a pipeline with two steps:
     # 1 - A SimpleImputer(strategy="most_frequent") to impute missing values
     # 2 - A OneHotEncoder() step to encode the variable
-    non_ordinal_categorical_preproc = Pipeline(
+    non_ordinal_categorical_preproc = make_pipeline(
         SimpleImputer(strategy="most_frequent"),
         OneHotEncoder()
     )
