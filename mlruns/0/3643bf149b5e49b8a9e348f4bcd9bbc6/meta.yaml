@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3643bf149b5e49b8a9e348f4bcd9bbc6/artifacts
+end_time: 1729654969028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3643bf149b5e49b8a9e348f4bcd9bbc6
+run_name: treasured-finch-918
+run_uuid: 3643bf149b5e49b8a9e348f4bcd9bbc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729654927911
+status: 3
+tags: []
+user_id: jrvish

@@ -1,0 +1,64 @@
+{
+    "os": "macOS-14.6.1-arm64-arm-64bit",
+    "python": "3.9.20",
+    "heartbeatAt": "2024-10-23T03:39:18.571695",
+    "startedAt": "2024-10-23T03:39:18.084017",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/outputs/2024-10-22/21-37-57/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/jrvish/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "09ecd8474148ecd6212837a3720bbd47f839d317"
+    },
+    "email": "91713981+jrvish@users.noreply.github.com",
+    "root": "/Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Mac-mini.local",
+    "username": "jrvish",
+    "executable": "/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 600,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 600,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.558795928955078
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

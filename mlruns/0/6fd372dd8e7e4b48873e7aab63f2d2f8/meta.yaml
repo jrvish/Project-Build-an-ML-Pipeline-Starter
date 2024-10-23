@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6fd372dd8e7e4b48873e7aab63f2d2f8/artifacts
+end_time: 1729654561682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd372dd8e7e4b48873e7aab63f2d2f8
+run_name: persistent-owl-413
+run_uuid: 6fd372dd8e7e4b48873e7aab63f2d2f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729654465829
+status: 3
+tags: []
+user_id: jrvish

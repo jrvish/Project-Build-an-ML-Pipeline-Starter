@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6ecf7fd095c64a1e8c67cc260b07e712/artifacts
+end_time: 1729654927823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ecf7fd095c64a1e8c67cc260b07e712
+run_name: bald-loon-165
+run_uuid: 6ecf7fd095c64a1e8c67cc260b07e712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729654859204
+status: 3
+tags: []
+user_id: jrvish

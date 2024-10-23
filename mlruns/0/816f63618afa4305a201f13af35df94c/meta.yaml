@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/816f63618afa4305a201f13af35df94c/artifacts
+end_time: 1729655360321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 816f63618afa4305a201f13af35df94c
+run_name: sincere-goat-661
+run_uuid: 816f63618afa4305a201f13af35df94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729655279078
+status: 3
+tags: []
+user_id: jrvish

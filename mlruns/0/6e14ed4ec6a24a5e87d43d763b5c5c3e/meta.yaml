@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6e14ed4ec6a24a5e87d43d763b5c5c3e/artifacts
+end_time: 1729654859023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e14ed4ec6a24a5e87d43d763b5c5c3e
+run_name: blushing-fawn-658
+run_uuid: 6e14ed4ec6a24a5e87d43d763b5c5c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729654816895
+status: 3
+tags: []
+user_id: jrvish

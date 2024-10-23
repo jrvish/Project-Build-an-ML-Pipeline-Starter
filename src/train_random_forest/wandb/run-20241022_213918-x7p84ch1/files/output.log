@@ -1,0 +1,64 @@
+2024-10-22 21:39:19,690 Downloading the training set artifact
+2024-10-22 21:39:20,300 Minimum price: 10, Maximum price: 350
+2024-10-22 21:39:20,310 Preparing sklearn pipeline
+2024-10-22 21:39:20,310 Fitting
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+Downloaded the training set artifact
+Completed get_inference_pipeline
+built the pipeline with the 2 steps
+Prepared sklearn pipeline
+2024-10-22 21:39:47,296 Scoring
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+2024-10-22 21:39:47,357 Score: 0.5493514908717645
+2024-10-22 21:39:47,357 MAE: 33.41601480263158
+2024-10-22 21:39:47,357 Exporting model
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/mlflow/models/signature.py:351: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  input_schema = _infer_schema(input_example)
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/sklearn/utils/validation.py:514: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  array.dtypes.apply(is_sparse).any()):
+Pipeline fitted to X_train and y_train data
+r2 and MAE computed
+/Users/jrvish/anaconda3/envs/mlflow-dffe77b5d7cf27f748d9dd7e886a9e692637967a/lib/python3.9/site-packages/_distutils_hack/__init__.py:31: UserWarning: Setuptools is replacing distutils. Support for replacing an already imported distutils is deprecated. In the future, this condition will fail. Register concerns at https://github.com/pypa/setuptools/issues/new?template=distutils-deprecation.yml
+  warnings.warn(
+[34m[1mwandb[39m[22m: Adding directory to artifact (./random_forest_dir)... Done. 0.0s
+sk_pipe pipeline saved as a mlflow.sklearn model in the directory 'random_forest_dir'
+Uploaded model we just imported to W&B
+Saved variable r_squared under the 'r2' key
+Saved the variable mae under the key 'mae'
+Uploaded feature importance visualization to W&B

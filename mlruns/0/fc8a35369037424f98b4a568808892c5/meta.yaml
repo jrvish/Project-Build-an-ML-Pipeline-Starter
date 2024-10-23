@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fc8a35369037424f98b4a568808892c5/artifacts
+end_time: 1729655360177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc8a35369037424f98b4a568808892c5
+run_name: angry-vole-180
+run_uuid: fc8a35369037424f98b4a568808892c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729655283787
+status: 3
+tags: []
+user_id: jrvish

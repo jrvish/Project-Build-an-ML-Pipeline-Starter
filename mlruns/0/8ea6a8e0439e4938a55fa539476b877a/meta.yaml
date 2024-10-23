@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jrvish/Desktop/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8ea6a8e0439e4938a55fa539476b877a/artifacts
+end_time: 1729655038376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ea6a8e0439e4938a55fa539476b877a
+run_name: nebulous-rook-102
+run_uuid: 8ea6a8e0439e4938a55fa539476b877a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729654969126
+status: 3
+tags: []
+user_id: jrvish
